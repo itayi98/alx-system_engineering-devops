@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ./1-listiit
+ls /0x00-sehell_basics
